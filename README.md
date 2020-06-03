@@ -1,6 +1,9 @@
 # budget-tracker-app
 online/offline budget tracker
 
+![Screenshot of deployed app](https://i.imgur.com/9koAXkG.png)
+
+
 # Table of Contents
 1. description
 2. technologies
@@ -17,4 +20,16 @@ online/offline budget tracker that allows a user to keep track of their purchase
 - express.js
 - mongodb
 - indexedDB
-- Mongoose
+- Mongoose 
+- Morgan
+- Compression
+
+# install
+
+- npm install to get dependencies 
+- node server.js to open the page on localhost:3000
+
+# contributions
+
+- Tyler Buck (me)
+- class starter files
